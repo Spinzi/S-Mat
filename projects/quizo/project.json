@@ -1,0 +1,16 @@
+{
+  "id": "quizo",
+  "title": "Quizo",
+  "description": "A tiny quiz maker. The simplest possible project page: a hero image and text, no custom theme.",
+  "date": "2025-09-20",
+  "hero": "images/hero.webp",
+  "heroAlt": "Placeholder banner for Quizo",
+  "meta": { "Status": "Example project" },
+  "sections": [
+    {
+      "type": "text",
+      "title": "About",
+      "content": "This is example content. Replace it with a real description.\n\nA blank line in the text starts a new paragraph."
+    }
+  ]
+}

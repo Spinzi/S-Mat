@@ -1,0 +1,16 @@
+{
+  "id": "retro-radio",
+  "title": "Retro Radio",
+  "description": "An old-style web radio player. Shows a dark project theme, a video link and a download.",
+  "date": "2025-11-02",
+  "hero": "images/hero.webp",
+  "heroAlt": "Placeholder banner for Retro Radio",
+  "theme": { "accent": "#ff9f43", "background": "#1e1a16", "surface": "#2b241d", "text": "#f5ece2", "border": "#8a6a48" },
+  "meta": { "Stack": "HTML, CSS, JavaScript" },
+  "sections": [
+    { "type": "text", "title": "About", "content": "Example content. A radio player with big chunky buttons." },
+    { "type": "image", "src": "images/01.webp", "alt": "Placeholder screenshot of the player" },
+    { "type": "video", "title": "Demo video", "url": "https://www.youtube.com/", "description": "External link (example)." },
+    { "type": "download", "title": "Download the manual (PDF)", "url": "https://example.com/manual.pdf", "description": "Example. For a file in the project folder use \"files/manual.pdf\"." }
+  ]
+}

@@ -1,0 +1,27 @@
+/* All colours live in these variables. To add a theme variable: add it here,
+   add it to COLOR_KEYS in js/theme.js, and use it in style.css. */
+:root, .theme-light {
+  --bg: #ece9d8;
+  --surface: #ffffff;
+  --text: #111111;
+  --accent: #245edb;
+  --border: #7f9db9;
+  --on-accent: #ffffff;
+  --font-body: Tahoma, "Segoe UI", Verdana, Geneva, sans-serif;
+  --font-code: Consolas, "Courier New", monospace;
+}
+:root[data-theme="dark"], .theme-dark {
+  --bg: #141824; --surface: #1f2535; --text: #edf0f7;
+  --accent: #2f6fdb; --border: #4a5776; --on-accent: #ffffff;
+}
+/* "System" = no data-theme attribute; follow the OS */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --bg: #141824; --surface: #1f2535; --text: #edf0f7;
+    --accent: #2f6fdb; --border: #4a5776; --on-accent: #ffffff;
+  }
+}
+/* "Custom" colours are set inline by theme.js */
+
+:root[data-font="serif"] { --font-body: Georgia, "Times New Roman", serif; }
+:root[data-font="mono"]  { --font-body: Consolas, "Courier New", monospace; }

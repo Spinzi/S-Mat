@@ -1,0 +1,30 @@
+{
+  "id": "wellflow",
+  "title": "WellFlow",
+  "description": "A small habit tracker with a weekly dashboard. Shows several images, code and links.",
+  "date": "2026-01-15",
+  "hero": "images/hero.webp",
+  "heroAlt": "Placeholder banner for WellFlow",
+  "theme": { "accent": "#2e8b57", "background": "#eef5ee", "surface": "#ffffff", "text": "#12231a", "border": "#7aa88a" },
+  "meta": { "Role": "Solo developer", "Stack": "HTML, CSS, JavaScript" },
+  "links": [ { "title": "Source on GitHub", "url": "https://github.com/YOUR-USERNAME/wellflow" } ],
+  "sections": [
+    { "type": "text", "title": "Overview", "content": ["Example content. WellFlow lets you tick off daily habits.", "Each section below is a different section type."] },
+    { "type": "image", "src": "images/01.webp", "alt": "Placeholder screenshot of the dashboard", "caption": "The weekly dashboard." },
+    { "type": "image", "src": "images/02.webp", "alt": "Placeholder screenshot of a habit's detail view", "caption": "A single habit." },
+    {
+      "type": "code", "title": "Streak calculation", "language": "js",
+      "content": [
+        "function streak(days) {",
+        "  let count = 0;",
+        "  for (const done of days) {",
+        "    if (!done) break;",
+        "    count++;",
+        "  }",
+        "  return count;",
+        "}"
+      ]
+    },
+    { "type": "link", "title": "View on GitHub", "url": "https://github.com/YOUR-USERNAME/wellflow", "description": "Full source code." }
+  ]
+}

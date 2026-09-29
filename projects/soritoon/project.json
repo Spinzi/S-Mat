@@ -1,0 +1,22 @@
+{
+  "id": "soritoon",
+  "title": "SoriToon",
+  "description": "A cartoon-style sorting puzzle game. Shows a gallery and a custom purple theme.",
+  "date": "2026-03-10",
+  "hero": "images/hero.webp",
+  "heroAlt": "Placeholder banner for SoriToon",
+  "theme": { "accent": "#8e44ad", "background": "#f6eefa", "surface": "#ffffff", "text": "#1c1024", "border": "#a77bbd" },
+  "meta": { "Genre": "Puzzle", "Platform": "Web" },
+  "sections": [
+    { "type": "text", "title": "About", "content": "Example content. Sort the cartoon characters into the right boxes before time runs out." },
+    {
+      "type": "gallery", "title": "Screenshots",
+      "images": [
+        { "src": "images/01.webp", "alt": "Placeholder: the main menu" },
+        { "src": "images/02.webp", "alt": "Placeholder: the level editor" },
+        { "src": "images/03.webp", "alt": "Placeholder: the results screen" }
+      ]
+    },
+    { "type": "video", "title": "Watch the trailer", "url": "https://www.youtube.com/", "description": "Opens on YouTube (example link)." }
+  ]
+}
