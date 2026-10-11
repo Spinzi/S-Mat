@@ -1,5 +1,13 @@
 [
   {
+    "id": "comunism",
+    "title": "Comunismul în România",
+    "description": "Referat de istorie, 1944–1989: instaurare, represiune, epoca Ceaușescu și Revoluția.",
+    "date": "2026-10-11",
+    "thumbnail": "projects/comunism/images/hero.webp",
+    "accent": "#a6192e"
+  },
+  {
     "id": "soritoon",
     "title": "SoriToon",
     "description": "A cartoon-style sorting puzzle game.",

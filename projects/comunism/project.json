@@ -1,0 +1,237 @@
+{
+  "id": "comunism",
+  "title": "Comunismul în România",
+  "description": "Referat de istorie despre comunismul în România, 1944–1989: instaurare, represiune, epoca Ceaușescu și Revoluția.",
+  "date": "2026-10-11",
+  "hero": "images/hero.webp",
+  "heroAlt": "Steagul României cu stema decupată, simbol al Revoluției din 1989, alături de titlul referatului",
+  "theme": {
+    "accent": "#a6192e",
+    "background": "#f4efe9",
+    "surface": "#ffffff",
+    "text": "#1a1a1a",
+    "border": "#8a7f78"
+  },
+  "meta": {
+    "Tip": "Referat de istorie",
+    "Perioadă": "1944–1989",
+    "Limbă": "Română",
+    "Imagini": "6 infografice originale"
+  },
+  "links": [
+    {
+      "title": "Memorialul Sighet",
+      "url": "https://memorialsighet.ro"
+    },
+    {
+      "title": "CNSAS",
+      "url": "https://cnsas.ro"
+    }
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Rezumat",
+      "content": [
+        "Acest referat prezintă istoria comunismului în România între 1944 și 1989: cum a fost instaurat regimul sub presiunea Uniunii Sovietice, cum s-a consolidat prin teroare politică, naționalizări și colectivizare, cum a evoluat spre o dictatură personală sub Nicolae Ceaușescu și cum s-a încheiat prin Revoluția din decembrie 1989.",
+        "Lucrarea urmărește dimensiunea politică, economică, socială și culturală a perioadei și se încheie cu discuția despre memoria comunismului: condamnarea oficială din 2006, deschiderea arhivelor Securității și rolul memorialelor, în special al celui de la Sighet."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Cuprins",
+      "content": [
+        "1. Introducere și context istoric\n2. Instaurarea regimului comunist (1944–1948)\n3. Stalinismul românesc (1948–1965)\n4. Represiunea: închisori, lagăre, Pitești\n5. Epoca Ceaușescu (1965–1989)\n6. Economia: industrializare și datorie externă\n7. Viața cotidiană în anii ’80\n8. Cultură, cenzură și disidență\n9. Revoluția din decembrie 1989\n10. Memoria comunismului după 1989\n11. Concluzii\n12. Bibliografie și resurse recomandate"
+      ]
+    },
+    {
+      "type": "text",
+      "title": "1. Introducere și context istoric",
+      "content": [
+        "Comunismul a guvernat România timp de aproape patru decenii și jumătate. Nu a venit ca urmare a unei victorii electorale, ci a fost rezultatul prezenței armatei sovietice pe teritoriul țării, al înțelegerilor dintre marile puteri la sfârșitul celui de-al Doilea Război Mondial și al unei strategii metodice de preluare a puterii de către o mică forță politică.",
+        "Înainte de 1944, Partidul Comunist din România era ilegal (din 1924) și avea o influență foarte redusă, cu doar câteva sute sau mii de membri. În 1989, partidul număra aproximativ 3,5–4 milioane de membri, adică o mare parte a adulților țării, o schimbare care arată cât de mult a devenit partidul un instrument de control și de carieră, nu doar de convingere ideologică.",
+        "România a fost aliata Germaniei naziste până în august 1944. Pe măsură ce frontul s-a apropiat, iar armata sovietică a intrat în Moldova, conducerea țării s-a confruntat cu alegerea dintre continuarea războiului și ieșirea din alianța cu Axa."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/02.webp",
+      "alt": "Cronologie a comunismului în România între 1944 și 1989",
+      "caption": "Cronologie: de la lovitura de stat din 23 august 1944 la execuția soților Ceaușescu, în decembrie 1989."
+    },
+    {
+      "type": "text",
+      "title": "2. Instaurarea regimului comunist (1944–1948)",
+      "content": [
+        "23 august 1944. Regele Mihai I, sprijinit de partidele democratice și de o parte a armatei, l-a arestat pe mareșalul Ion Antonescu și a scos România din alianța cu Axa, alăturând-o Aliaților. Armistițiul semnat la Moscova, pe 12 septembrie 1944, a pus țara sub controlul Comisiei Aliate (în practică sovietice) și a impus plata unor despăgubiri de război foarte grele.",
+        "6 martie 1945. După presiuni directe ale Moscovei, inclusiv vizita la București a lui Andrei Vâșinski, regele a fost forțat să accepte un guvern condus de Petru Groza, dominat de comuniști și de aliații lor. A fost momentul-cheie al preluării controlului asupra ministerelor esențiale: Interne, Justiție și Propagandă.",
+        "Metodele erau cele folosite și în alte țări din Europa de Est, așa-numita „tactică a salamului”: alianțe temporare cu alte partide, apoi eliminarea lor, felie cu felie. Au fost folosite manifestații dirijate, intimidări, arestări, controlul presei și al poliției.",
+        "19 noiembrie 1946. Alegerile parlamentare au fost falsificate masiv. Blocul Partidelor Democrate, dominat de comuniști, a fost declarat câștigător, deși mărturiile și arhivele arată că Partidul Național Țărănesc condus de Iuliu Maniu câștigase de fapt cele mai multe voturi.",
+        "Iulie 1947. Liderii PNȚ au fost arestați la Tămădău, într-o înscenare în care erau acuzați de încercarea de a pleca din țară. Iuliu Maniu a fost condamnat la închisoare pe viață și a murit în detenție, la Sighet, în 1953. Partidul a fost desființat.",
+        "30 decembrie 1947. Regele Mihai a fost obligat să abdice, sub amenințarea că mai mulți tineri arestați vor fi executați. A doua zi, România a fost proclamată Republică Populară. În februarie 1948, Partidul Comunist și Partidul Social-Democrat au fuzionat în Partidul Muncitoresc Român (PMR), iar în aprilie 1948 a fost adoptată o Constituție după model sovietic."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "3. Stalinismul românesc (1948–1965)",
+      "content": [
+        "Între 1948 și 1953, România a urmat îndeaproape modelul stalinist. Puterea a fost concentrată în mâinile conducerii PMR, în frunte cu Gheorghe Gheorghiu-Dej, după ce a fost eliminată fracțiunea „moscovită” condusă de Ana Pauker, înlăturată în 1952.",
+        "11 iunie 1948: naționalizarea principalelor mijloace de producție. Fabricile, băncile, minele, transporturile și asigurările au trecut în proprietatea statului. Economia a început să fie condusă prin planuri cincinale centralizate, cu prioritate pentru industria grea.",
+        "Colectivizarea agriculturii a început în 1949 și a fost declarată încheiată în aprilie 1962. Țăranii au fost obligați să-și predea pământul și uneltele în gospodării agricole colective. Cei care se opuneau, numiți „chiaburi”, au fost arestați, deposedați, deportați sau marginalizați. Au avut loc numeroase revolte țărănești, reprimate violent.",
+        "Biserica a fost și ea țintă a regimului. Biserica Greco-Catolică a fost desființată în 1948, iar bunurile și clerul ei au fost trecute cu forța la Biserica Ortodoxă sau persecutate. Mulți episcopi și preoți din toate confesiunile au ajuns în închisori.",
+        "Educația a fost reorganizată după model sovietic, cu predarea obligatorie a limbii ruse, epurări în învățământ și reeducare ideologică. Societățile mixte româno-sovietice (SovRom), create după război, au permis URSS să controleze ramuri întregi ale economiei, până la desființarea lor în anii ’50.",
+        "Un moment de cotitură a fost retragerea trupelor sovietice din România, în 1958. Gheorghiu-Dej a început treptat să se distanțeze de Moscova, mai ales în anii ’60, când partidul a promovat o formă de „comunism național” și a refuzat planurile sovietice de specializare economică în cadrul CAER.",
+        "Gheorghe Gheorghiu-Dej a murit la 19 martie 1965. A urmat Nicolae Ceaușescu, ales primul secretar al partidului."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/03.webp",
+      "alt": "Diagrama liderilor și a perioadelor de conducere",
+      "caption": "Liderii regimului comunist: Petru Groza, Gheorghe Gheorghiu-Dej și Nicolae Ceaușescu."
+    },
+    {
+      "type": "text",
+      "title": "4. Represiunea: Securitatea, închisori și lagăre",
+      "content": [
+        "Instrumentul principal al controlului politic a fost Departamentul Securității Statului, înființat prin decret la 30 august 1948. Securitatea a supravegheat, arestat și anchetat potențiali adversari ai regimului, folosind o rețea densă de informatori recrutați din toate mediile sociale.",
+        "Primele victime au fost foștii demnitari ai statului interbelic, liderii partidelor istorice, ofițerii, preoții, intelectualii, studenții și țăranii care se opuneau colectivizării. Mulți au fost judecați în procese politice, iar alții au fost închiși administrativ, fără proces.",
+        "Sighet a devenit un loc simbolic: aici au fost închiși mulți foști miniștri, istorici și lideri politici, precum Iuliu Maniu și Gheorghe Brătianu, ambii morți în detenție. Alte închisori politice cunoscute au fost Aiud, Gherla, Jilava, Râmnicu Sărat, Pitești și Târgu Ocna.",
+        "Fenomenul Pitești (1949–1952) este considerat unul dintre cele mai grave episoade de tortură din Europa Răsăriteană. Deținuți, mai ales studenți, au fost supuși unui experiment de „reeducare” prin violență fizică și psihică, în care erau obligați să-și tortureze colegii. Metoda a fost condusă de deținutul Eugen Țurcanu și a continuat și în alte locuri de detenție.",
+        "Începând din 1949, mii de deținuți politici și alte persoane au fost trimiși la muncă forțată pe șantierul Canalului Dunăre–Marea Neagră, un proiect abandonat în 1953 și reluat în anii ’70, finalizat în 1984. În iunie 1951, zeci de mii de oameni din Banat și alte zone de frontieră au fost deportați în Bărăgan.",
+        "Rezistența anticomunistă a existat și în formă armată, în special în munți (grupurile din Făgăraș, Banat, Bucovina, Maramureș). Frații Arnăuțoiu, din grupul „Haiducii Muscelului”, au fost capturați în 1958 și executați în 1959. Ultimele grupuri au fost destrămate către începutul anilor ’60, deși unii partizani au rămas ascunși ani de zile după aceea.",
+        "Estimările numărului victimelor represiunii variază mult în funcție de definiție și metodă: se vorbește despre sute de mii de persoane arestate sau condamnate politic și despre un număr mult mai mare dacă se includ deportările, colectivizarea forțată și alte forme de persecuție."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/04.webp",
+      "alt": "Principalele locuri ale represiunii comuniste",
+      "caption": "Închisori și lagăre de muncă forțată din perioada comunistă."
+    },
+    {
+      "type": "text",
+      "title": "5. Epoca Ceaușescu (1965–1989)",
+      "content": [
+        "Primii ani. După 1965, Nicolae Ceaușescu a oferit imaginea unui lider reformator. A fost eliberată o parte din deținuții politici, cenzura a fost relaxată, iar partidul și-a schimbat denumirea în Partidul Comunist Român. Țara a fost redenumită Republica Socialistă România.",
+        "Politica externă. România a menținut relații cu Israelul după războiul din 1967, a stabilit relații diplomatice cu Germania Federală și a refuzat participarea la invadarea Cehoslovaciei. Pe 21 august 1968, Ceaușescu a condamnat public invazia trupelor Pactului de la Varșovia, un gest care i-a adus popularitate internă și apreciere în Occident. Președintele american Richard Nixon a vizitat București în 1969.",
+        "Decretul 770 (1966). Statul a interzis avortul și contracepția pentru a crește natalitatea. Controalele ginecologice obligatorii și pedepsele severe au dus la un număr foarte mare de femei care au murit din cauza avorturilor clandestine; estimările depășesc câteva mii de decese. Au crescut, de asemenea, abandonul copiilor și numărul celor din orfelinate.",
+        "Tezele din iulie 1971. După o vizită în China și Coreea de Nord, Ceaușescu a inițiat o „mini-revoluție culturală”, cu accent pe controlul ideologic și pe naționalismul oficial, punând capăt perioadei de relativă liberalizare.",
+        "Cultul personalității. Din anii ’70, propaganda l-a prezentat pe Ceaușescu drept „Conducătorul”, „Geniul Carpaților”, iar pe soția sa Elena drept mare om de știință. În 1974 a devenit președinte al Republicii. Funcțiile-cheie au fost ocupate tot mai mult de membri ai familiei. Festivalul „Cântarea României” (din 1976) a devenit o paradă a propagandei.",
+        "Anul 1977. Cutremurul din 4 martie a provocat aproximativ 1.570 de morți, majoritatea în București. În august, greva minerilor din Valea Jiului a fost una dintre cele mai importante mișcări muncitorești din perioada comunistă.",
+        "Sistematizarea și Casa Poporului. În anii ’80, o mare parte din centrul istoric al Bucureștiului a fost demolată pentru construirea Casei Poporului (actualul Palat al Parlamentului) și a Bulevardului Victoria Socialismului. Au fost dărâmate sau mutate biserici, mănăstiri și mii de case. Planul de „sistematizare rurală” prevedea desființarea a mii de sate, dar a fost doar parțial aplicat.",
+        "Controlul social. Securitatea a devenit tot mai prezentă, iar călătoriile în străinătate erau aspru limitate. Regimul a „vândut” emigrarea: Germania a plătit pentru plecarea etnicilor germani, iar Israelul pentru cea a evreilor. Minoritatea maghiară a fost supusă unei politici de asimilare; în 1959, Universitatea maghiară Bolyai fusese deja unită cu Universitatea Babeș din Cluj."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "6. Economia: industrializare și datorie externă",
+      "content": [
+        "Regimul a pus accentul pe industrializarea forțată, cu mari combinate siderurgice (ca cel de la Galați), petrochimice și de construcții de mașini. Au fost realizate și proiecte de infrastructură mari, precum Transfăgărășanul (1970–1974), metroul bucureștean (inaugurat în 1979) și Canalul Dunăre–Marea Neagră. Procentul populației urbane a crescut de la aproximativ un sfert la peste jumătate din total.",
+        "Industrializarea s-a făcut însă cu costuri sociale mari: ineficiență, consum uriaș de energie, calitate scăzută și dependență de importuri de materii prime și tehnologie. În anii ’70, România s-a îndatorat masiv la creditorii occidentali.",
+        "La începutul anilor ’80, datoria externă depășea 10 miliarde de dolari. Ceaușescu a decis să o ramburseze integral. Pentru a face acest lucru, a redus drastic importurile și consumul intern și a exportat tot ce se putea. Datoria a fost declarată achitată în aprilie 1989, dar prețul a fost plătit de populație prin lipsuri generalizate."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "7. Viața cotidiană în anii ’80",
+      "content": [
+        "În deceniul final, viața de zi cu zi a devenit foarte grea. Alimentele de bază (ulei, zahăr, făină, carne) erau raționalizate și vândute pe cartelă, iar cozile erau o parte obișnuită a vieții. Electricitatea era oprită după program, locuințele erau încălzite foarte puțin iarna, iar apa caldă lipsea.",
+        "Televiziunea publică avea un program foarte redus, în care predominau emisiunile despre activitatea Conducătorului. Ascultarea posturilor străine, în special Radio Europa Liberă, era una dintre puținele surse de informații independente, deși era riscantă.",
+        "Aceste condiții, asociate cu frica de Securitate și cu lipsa oricărei perspective de schimbare, au creat o stare de epuizare și resemnare. Totuși, nemulțumirea a început să iasă la suprafață, mai ales prin revolta muncitorilor din Brașov, de la 15 noiembrie 1987."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/05.webp",
+      "alt": "Aspecte ale vieții cotidiene în anii ’80",
+      "caption": "Raționalizare, frig, propagandă și control: cum arăta viața de zi cu zi în ultimul deceniu al regimului."
+    },
+    {
+      "type": "text",
+      "title": "8. Cultură, cenzură și disidență",
+      "content": [
+        "Cenzura a funcționat până în 1977 prin Direcția Generală a Presei și Tipăriturilor, apoi prin mecanisme mai puțin vizibile, dar la fel de eficiente. În anii ’50, realismul socialist a fost obligatoriu în literatură și artă. În anii ’60, o relaxare relativă a permis apariția unor generații noi de scriitori, regizori și artiști, până la strângerea șurubului din 1971.",
+        "Disidența a rămas limitată și izolată. Printre cei mai cunoscuți disidenți se numără scriitorul Paul Goma, care a lansat o mișcare pentru drepturile omului în 1977, profesoara Doina Cornea din Cluj, precum și mai mulți intelectuali și muncitori care au protestat în diverse forme. Majoritatea au fost hărțuiți, anchetați, închiși sau obligați să emigreze.",
+        "În martie 1989, șase foști demnitari comuniști au semnat „Scrisoarea celor șase”, în care criticau politica lui Ceaușescu. A fost un semnal că nemulțumirea ajunsese chiar și în interiorul regimului."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "9. Revoluția din decembrie 1989",
+      "content": [
+        "Revoluția a început la Timișoara, pe 16 decembrie 1989, când oamenii s-au strâns în jurul pastorului reformat László Tőkés pentru a împiedica evacuarea lui forțată. Protestul s-a transformat rapid într-o manifestație împotriva regimului. În zilele următoare, forțele de represiune au tras în demonstranți.",
+        "Pe 21 decembrie, Ceaușescu a ținut un miting în București, dar mulțimea l-a huiduit, iar transmisia în direct a fost întreruptă. Noaptea au avut loc ciocniri violente în centrul capitalei.",
+        "Pe 22 decembrie, a doua zi, mulțimea a intrat în clădirea Comitetului Central. Ceaușescu și soția sa au părăsit clădirea cu elicopterul, au fost prinși la Târgoviște și judecați de un tribunal militar extraordinar. Pe 25 decembrie 1989, cei doi au fost condamnați la moarte și executați.",
+        "Revoluția a avut peste 1.100 de victime, majoritatea după 22 decembrie, în condițiile în care confuzia, diversiunile și atacurile asupra unor obiective au dus la numeroase morți. România a fost singura țară din fostul Bloc de Est în care schimbarea de regim a fost violentă. Dezbaterea despre cine a tras, ce rol au avut structurile de forță și cine a preluat de fapt puterea a continuat decenii întregi, iar anchetele au fost lungi și controversate."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/06.webp",
+      "alt": "Zilele-cheie ale Revoluției din decembrie 1989",
+      "caption": "Revoluția din decembrie 1989, de la Timișoara la Târgoviște."
+    },
+    {
+      "type": "text",
+      "title": "10. Memoria comunismului după 1989",
+      "content": [
+        "Procesul de asumare publică a trecutului comunist a fost lent și contestat. Câteva repere importante:",
+        "• 1993: la inițiativa Anei Blandiana și a lui Romulus Rusan a început crearea Memorialului Victimelor Comunismului și al Rezistenței de la Sighet, în fosta închisoare politică, devenit un centru internațional de studii.\n• 1999: legea 187/1999 a deschis accesul la dosarele Securității și a creat Consiliul Național pentru Studierea Arhivelor Securității (CNSAS).\n• 2006: Comisia prezidențială condusă de Vladimir Tismăneanu a întocmit Raportul final, iar pe 18 decembrie 2006 președintele Traian Băsescu a condamnat în Parlament regimul comunist ca ilegitim și criminal.\n• După 2000: procese penale împotriva unor foști torționari și ofițeri (de exemplu, în cazul Pitești și al unor comandanți de penitenciar) și deschiderea unor muzee și memoriale.",
+        "Memoria comunismului rămâne și astăzi divizată. Pentru unii, perioada este asociată cu represiune și lipsuri; pentru alții, cu securitatea locului de muncă, cu locuința și cu un sentiment de stabilitate. Istoricii subliniază că ambele experiențe trebuie înțelese, fără a face din nostalgie o scuză pentru crimele regimului."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "11. Concluzii",
+      "content": [
+        "Comunismul a transformat profund România: a schimbat structura economică, urbanizarea, învățământul și clasele sociale. În același timp, a făcut-o prin teroare politică, încălcarea sistematică a drepturilor omului, distrugerea elitelor și a proprietății private și, în ultimii ani, printr-o dictatură personală care a sacrificat nivelul de trai al oamenilor.",
+        "Studiul acestei perioade nu este doar o chestiune de istorie. Înțelegerea modului în care funcționa regimul, de la propagandă și frică la rețeaua de informatori și la controlul economiei, ne ajută să recunoaștem mecanismele prin care libertățile pot fi pierdute și să prețuim instituțiile democratice."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "12. Notă privind imaginile",
+      "content": [
+        "Imaginile din această pagină sunt infografice originale, create special pentru acest proiect pe baza informațiilor din text. Pentru fotografii de arhivă autentice (Revoluția din 1989, Casa Poporului, închisorile politice, portrete ale liderilor) sunt recomandate arhivele de mai jos, unde trebuie verificate licența și sursa fiecărei imagini înainte de a fi folosite în proiect."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Bibliografie și resurse recomandate",
+      "content": [
+        "• Vladimir Tismăneanu (coord.), Raport final. Comisia Prezidențială pentru Analiza Dictaturii Comuniste din România, 2006.\n• Vladimir Tismăneanu, Stalinism pentru eternitate, Polirom.\n• Dennis Deletant, Ceaușescu and the Securitate: Coercion and Dissent in Romania, 1965–1989.\n• Publicațiile și arhiva de istorie orală ale Memorialului Sighet.\n• Institutul Național pentru Studiul Totalitarismului și IICCMER (Institutul de Investigare a Crimelor Comunismului).\n\nÎnainte de citare, verifică datele precise în sursele de mai sus; unele cifre (victime, arestări) sunt estimări care variază de la un autor la altul."
+      ]
+    },
+    {
+      "type": "link",
+      "title": "Memorialul Victimelor Comunismului și al Rezistenței, Sighet",
+      "url": "https://memorialsighet.ro",
+      "description": "Muzeu, centru de documentare și arhivă video despre represiunea comunistă."
+    },
+    {
+      "type": "link",
+      "title": "CNSAS – Consiliul Național pentru Studierea Arhivelor Securității",
+      "url": "https://cnsas.ro",
+      "description": "Instituția care gestionează dosarele Securității."
+    },
+    {
+      "type": "link",
+      "title": "Wikipedia: Revoluția română din 1989",
+      "url": "https://ro.wikipedia.org/wiki/Revolu%C8%9Bia_rom%C3%A2n%C4%83_din_1989",
+      "description": "Prezentare generală, cu bibliografie și linkuri spre imagini."
+    },
+    {
+      "type": "link",
+      "title": "Wikipedia: Communist Romania",
+      "url": "https://en.wikipedia.org/wiki/Communist_Romania",
+      "description": "Articol în engleză, util pentru context internațional."
+    },
+    {
+      "type": "link",
+      "title": "Wikimedia Commons: Fotografii din România comunistă",
+      "url": "https://commons.wikimedia.org/wiki/Category:Communist_Romania",
+      "description": "Arhivă de imagini; verifică licența fiecărei fotografii înainte de folosire."
+    }
+  ]
+}
