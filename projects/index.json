@@ -1,5 +1,13 @@
 [
   {
+    "id": "romania",
+    "title": "România: prezentare generală",
+    "description": "Suprafață, vecini, regiuni, legături cu alte țări, economie și zone de vizitat.",
+    "date": "2026-10-15",
+    "thumbnail": "projects/romania/images/hero.webp",
+    "accent": "#1f4fa8"
+  },
+  {
     "id": "comunism",
     "title": "Comunismul în România",
     "description": "Referat de istorie, 1944–1989: instaurare, represiune, epoca Ceaușescu și Revoluția.",

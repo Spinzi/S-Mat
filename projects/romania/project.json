@@ -1,0 +1,180 @@
+{
+  "id": "romania",
+  "title": "România: prezentare generală",
+  "description": "Suprafață, vecini, regiuni, legături cu alte țări, economie și zone de vizitat, cu hărți și infografice originale.",
+  "date": "2026-10-15",
+  "hero": "images/hero.webp",
+  "heroAlt": "Steagul României în fundal, cu harta țării și cifre-cheie",
+  "theme": {
+    "accent": "#1f4fa8",
+    "background": "#f3f5fa",
+    "surface": "#ffffff",
+    "text": "#0b1f4d",
+    "border": "#8a93b0"
+  },
+  "meta": {
+    "Tip": "Prezentare",
+    "Subiect": "România",
+    "Limbă": "Română",
+    "Imagini": "6 infografice originale"
+  },
+  "links": [
+    {
+      "title": "Institutul Național de Statistică",
+      "url": "https://insse.ro"
+    },
+    {
+      "title": "Eurostat",
+      "url": "https://ec.europa.eu/eurostat"
+    },
+    {
+      "title": "Romania Travel",
+      "url": "https://romania.travel"
+    },
+    {
+      "title": "UNESCO: România",
+      "url": "https://whc.unesco.org/en/statesparties/ro"
+    }
+  ],
+  "sections": [
+    {
+      "type": "text",
+      "title": "Rezumat",
+      "content": [
+        "Această prezentare descrie România din mai multe unghiuri: poziția și suprafața, cei cinci vecini și Marea Neagră, relieful și regiunile istorice, legăturile cu alte țări, economia și locurile care merită vizitate.",
+        "Cifrele sunt aproximative și rotunjite. Pentru date exacte și actualizate, consultați Institutul Național de Statistică și Eurostat."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "Cuprins",
+      "content": "1. Date generale\n2. Poziție, suprafață și vecini\n3. Relief și regiuni\n4. Legături cu alte țări\n5. Economie\n6. Zone de vizitat\n7. Concluzii și surse"
+    },
+    {
+      "type": "text",
+      "title": "1. Date generale",
+      "content": [
+        "Denumire oficială: România. Capitala: București, cel mai mare oraș, cu aproximativ 1,7 milioane de locuitori în municipiu. Populația țării este de aproximativ 19 milioane de locuitori, în scădere de la începutul anilor 1990 din cauza emigrării și a natalității reduse.",
+        "Forma de guvernământ: republică semi-prezidențială. Limba oficială: româna, limbă romanică. Moneda: leul (RON). Ziua națională: 1 Decembrie, în amintirea Marii Uniri din 1918. Indicativ telefonic: +40. Domeniu internet: .ro.",
+        "Țara este împărțită în 41 de județe și municipiul București. Cele mai mari minorități sunt cea maghiară (aproximativ 6%) și cea romă, urmate de germani, ucraineni, turci și tătari."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/hero.webp",
+      "alt": "Steagul României în fundal, cu harta țării și cifre-cheie",
+      "caption": "România într-o privire: suprafață, populație, vecini și organizare administrativă."
+    },
+    {
+      "type": "text",
+      "title": "2. Poziție, suprafață și vecini",
+      "content": [
+        "România se află în sud-estul Europei Centrale, la nord de Peninsula Balcanică, și are o suprafață de 238.397 km². Este a opta țară ca mărime din Uniunea Europeană și printre primele 12–13 din Europa. Distanța maximă est–vest este de aproximativ 740 km, iar nord–sud de aproximativ 480 km.",
+        "Forma țării este dată de arcul Carpaților, în jurul căruia se așază Transilvania, iar la sud și est Dunărea și Marea Neagră închid teritoriul. Litoralul are 245 km."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/01-vecini.webp",
+      "alt": "Hartă schematică a României cu cei cinci vecini și lungimea graniței cu fiecare",
+      "caption": "Vecinii României și lungimea aproximativă a graniței comune."
+    },
+    {
+      "type": "text",
+      "title": "Cei cinci vecini și marea",
+      "content": [
+        "Ucraina (nord și sud-est): graniță de aproximativ 650 km, în Maramureș, Bucovina și în zona Deltei Dunării. După 2022, porturile dunărene și Constanța au devenit rute importante pentru exportul de cereale ucrainene.",
+        "Republica Moldova (est): aproximativ 680 km, în mare parte pe râul Prut. Cele două țări au aceeași limbă și o istorie comună, iar Iași și Chișinău sunt legate economic și cultural. Conducta Iași–Ungheni aduce gaze către Moldova. Republica Moldova are statut de țară candidată la UE din iunie 2022.",
+        "Bulgaria (sud): aproximativ 630 km, aproape în întregime pe Dunăre. Podurile Giurgiu–Ruse și Calafat–Vidin leagă cele două țări, ambele membre UE și Schengen.",
+        "Serbia (sud-vest): aproximativ 550 km, în zona Banatului și a Defileului Dunării. Barajul de la Porțile de Fier este construit în comun și produce energie hidroelectrică pentru ambele state.",
+        "Ungaria (vest): aproximativ 450 km. Orașele Oradea, Arad și Timișoara sunt legate de Ungaria prin autostrăzi și căi ferate, iar maghiarii formează cea mai mare minoritate din România.",
+        "Marea Neagră (sud-est): pe lângă România, la mare au ieșire Bulgaria, Turcia, Georgia, Rusia și Ucraina."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "3. Relief și regiuni",
+      "content": [
+        "Relieful României este echilibrat: aproximativ o treime munți (31%), o treime dealuri și podișuri (36%) și o treime câmpii (33%). Carpații formează un arc cu trei ramuri: Orientali, Meridionali (Făgăraș, Retezat, Parâng) și Occidentali (Apuseni). Cel mai înalt vârf este Moldoveanu, de 2.544 m, în Făgăraș.",
+        "Dunărea străbate țara pe aproximativ 1.075 km și se varsă în Marea Neagră printr-o deltă de peste 3.400 km² pe teritoriul românesc, declarată rezervație a biosferei UNESCO în 1991. Clima este temperat-continentală, cu patru anotimpuri: veri calde, ierni reci în interior și temperaturi mai blânde la mare."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/02-relief-regiuni.webp",
+      "alt": "Hartă schematică cu arcul Carpaților și cele nouă regiuni istorice",
+      "caption": "Relieful și regiunile istorice ale României."
+    },
+    {
+      "type": "text",
+      "title": "Regiunile istorice",
+      "content": [
+        "Transilvania (centru): zonă cu orașe medievale săsești, castele și un amestec de culturi română, maghiară și săsească. Orașe: Cluj-Napoca, Brașov, Sibiu, Sighișoara, Târgu Mureș.",
+        "Banat (vest): zonă multiculturală cu capitala la Timișoara, primul oraș european cu iluminat electric stradal (1884) și locul de unde a pornit Revoluția din 1989.",
+        "Crișana (vest): Oradea, cu arhitectură Art Nouveau, și Arad. Maramureș (nord): sate cu biserici de lemn din lista UNESCO și tradiții păstrate. Bucovina (nord-est): mănăstiri cu fresce exterioare, în jurul Sucevei.",
+        "Moldova (est): Iași, centru universitar și cultural, podgorii precum Cotnari, mănăstiri și Munții Carpați Orientali. Muntenia (sud): București, Ploiești, Câmpia Română și Bărăganul, cea mai dezvoltată zonă economic.",
+        "Oltenia (sud-vest): Craiova, Târgu Jiu cu opera lui Brâncuși și Defileul Dunării. Dobrogea (sud-est): Constanța, Tulcea, Munții Măcin și Delta Dunării; aici a fost exilat poetul roman Ovidiu, la Tomis."
+      ]
+    },
+    {
+      "type": "text",
+      "title": "4. Legături cu alte țări",
+      "content": [
+        "Organizații: România este membră ONU din 1955, a intrat în Consiliul Europei în 1993, în NATO pe 29 martie 2004 și în Uniunea Europeană pe 1 ianuarie 2007. A aderat la spațiul Schengen în două etape: pentru frontierele aeriene și maritime pe 31 martie 2024, iar pentru cele terestre pe 1 ianuarie 2025. Aderarea la OCDE este în curs.",
+        "Transport: Dunărea face legătura cu Germania și cu Marea Nordului prin canalul Rin–Main–Dunăre. Canalul Dunăre–Marea Neagră (64 km) scurtează drumul spre Constanța, unul dintre cele mai mari porturi din regiune. Căi ferate și autostrăzi duc spre Budapesta, Sofia și Chișinău, iar zboruri directe leagă București, Cluj, Timișoara și Iași de zeci de orașe europene.",
+        "Energie și securitate: interconectarea BRUA (Bulgaria–România–Ungaria–Austria) și conducta spre Moldova întăresc piața regională de gaze. România are parteneriat strategic cu SUA, iar bazele Mihail Kogălniceanu și Deveselu sunt parte din sistemul NATO.",
+        "Comerț și oameni: peste 70% din exporturi merg către UE; principalii parteneri sunt Germania, Italia, Ungaria, Franța, Bulgaria, Polonia și Turcia. Milioane de români trăiesc în străinătate, în special în Italia, Spania, Germania și Marea Britanie, iar banii trimiși acasă și legăturile familiale sunt o punte importantă între țări."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/03-legaturi.webp",
+      "alt": "Cronologie a aderărilor României la organizații internaționale și trei cadre despre transport, energie și comerț",
+      "caption": "Aderări și legături: de la ONU la Schengen, plus rute, energie și comerț."
+    },
+    {
+      "type": "text",
+      "title": "5. Economie",
+      "content": [
+        "România are cea mai mare economie din sud-estul Europei după Turcia și Polonia, cu un PIB nominal de ordinul a 350 miliarde de euro. Nivelul de trai (PIB pe locuitor la paritatea puterii de cumpărare) este de aproximativ 77% din media UE, în creștere continuă din 2007.",
+        "Serviciile reprezintă aproximativ două treimi din valoarea adăugată. Industria are un rol important: automotive (Dacia din Mioveni, Ford la Craiova, numeroși furnizori de componente), industria alimentară, metalurgia și petrolul. România este printre marii producători agricoli din UE, în special la porumb, grâu și floarea-soarelui.",
+        "IT-ul și serviciile externalizate au crescut puternic, mai ales la București, Cluj-Napoca, Timișoara și Iași. Mixul energetic include hidro, nuclear (Cernavodă), gaze, cărbune în scădere și eolian în Dobrogea. Proiectul Neptun Deep din Marea Neagră urmează să aducă gaze noi.",
+        "Provocări: deficit bugetar mare, infrastructură încă insuficientă (autostrăzi și căi ferate), lipsă de forță de muncă din cauza emigrării și declin demografic. Fondurile europene, inclusiv PNRR, susțin investițiile."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/04-economie.webp",
+      "alt": "Grafic cu structura economiei României și șase indicatori-cheie",
+      "caption": "Structura economiei și indicatori-cheie (valori aproximative)."
+    },
+    {
+      "type": "text",
+      "title": "6. Zone de vizitat",
+      "content": [
+        "1. București: Palatul Parlamentului, una dintre cele mai mari clădiri administrative din lume, Centrul Vechi, Ateneul Român, muzee.",
+        "2. Brașov și Castelul Bran: centru medieval, Biserica Neagră și castelul asociat în popor cu legenda lui Dracula.",
+        "3. Castelul Peleș (Sinaia): fostă reședință regală, în stil neorenascentist.",
+        "4. Sighișoara: cetate medievală locuită, inclusă în lista UNESCO. 5. Sibiu: oraș vechi cu piețe, poduri și muzeul în aer liber ASTRA.",
+        "6. Cluj-Napoca și Salina Turda: oraș universitar și salină spectaculoasă. 7. Castelul Corvinilor (Hunedoara), unul dintre cele mai mari castele gotice din Europa.",
+        "8. Maramureș: biserici de lemn UNESCO, Cimitirul Vesel de la Săpânța. 9. Bucovina: Voroneț, Sucevița, Moldovița, mănăstiri cu fresce exterioare.",
+        "10. Transfăgărășan și Transalpina: drumuri montane spectaculoase, deschise de obicei vara. 11. Delta Dunării: bărci pe canale, păsări și sate de pescari.",
+        "12. Litoralul: Constanța, Mamaia, 2 Mai și Vama Veche, plus Cetatea Histria."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/05-turism.webp",
+      "alt": "Hartă schematică cu douăsprezece destinații turistice numerotate",
+      "caption": "Douăsprezece destinații care acoperă cele mai importante regiuni."
+    },
+    {
+      "type": "text",
+      "title": "7. Concluzii",
+      "content": [
+        "România îmbină un relief variat, o poziție strategică la Dunăre și la Marea Neagră, o economie în creștere și un patrimoniu cultural bogat. Apartenența la UE, NATO și Schengen o leagă strâns de restul Europei, iar vecinii ei sunt, în același timp, parteneri economici și culturali.",
+        "Pentru o primă vizită, un traseu clasic combină București, Brașov și Bran, Sibiu și Sighișoara, apoi un drum spre Bucovina sau spre Delta Dunării, în funcție de sezon."
+      ]
+    }
+  ]
+}
