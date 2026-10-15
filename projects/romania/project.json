@@ -16,7 +16,7 @@
     "Tip": "Prezentare",
     "Subiect": "România",
     "Limbă": "Română",
-    "Imagini": "6 infografice originale"
+    "Imagini": "7 infografice originale"
   },
   "links": [
     {
@@ -41,14 +41,14 @@
       "type": "text",
       "title": "Rezumat",
       "content": [
-        "Această prezentare descrie România din mai multe unghiuri: poziția și suprafața, cei cinci vecini și Marea Neagră, relieful și regiunile istorice, legăturile cu alte țări, economia și locurile care merită vizitate.",
+        "Această prezentare descrie România din mai multe unghiuri: poziția matematică și geografică, suprafața, cei cinci vecini și Marea Neagră, relieful și regiunile istorice, legăturile cu alte țări, economia și locurile care merită vizitate.",
         "Cifrele sunt aproximative și rotunjite. Pentru date exacte și actualizate, consultați Institutul Național de Statistică și Eurostat."
       ]
     },
     {
       "type": "text",
       "title": "Cuprins",
-      "content": "1. Date generale\n2. Poziție, suprafață și vecini\n3. Relief și regiuni\n4. Legături cu alte țări\n5. Economie\n6. Zone de vizitat\n7. Concluzii și surse"
+      "content": "1. Date generale\n2. Poziție (matematică și geografică), suprafață și vecini\n3. Relief și regiuni\n4. Legături cu alte țări\n5. Economie\n6. Zone de vizitat\n7. Concluzii și surse"
     },
     {
       "type": "text",
@@ -67,7 +67,7 @@
     },
     {
       "type": "text",
-      "title": "2. Poziție, suprafață și vecini",
+      "title": "2. Poziție (matematică și geografică), suprafață și vecini",
       "content": [
         "România se află în sud-estul Europei Centrale, la nord de Peninsula Balcanică, și are o suprafață de 238.397 km². Este a opta țară ca mărime din Uniunea Europeană și printre primele 12–13 din Europa. Distanța maximă est–vest este de aproximativ 740 km, iar nord–sud de aproximativ 480 km.",
         "Forma țării este dată de arcul Carpaților, în jurul căruia se așază Transilvania, iar la sud și est Dunărea și Marea Neagră închid teritoriul. Litoralul are 245 km."
@@ -78,6 +78,21 @@
       "src": "images/01-vecini.webp",
       "alt": "Hartă schematică a României cu cei cinci vecini și lungimea graniței cu fiecare",
       "caption": "Vecinii României și lungimea aproximativă a graniței comune."
+    },
+    {
+      "type": "text",
+      "title": "Poziția matematică",
+      "content": [
+        "România se află în emisfera nordică și în emisfera estică. Latitudinea este cuprinsă între 43°37′ N (punctul cel mai sudic, lângă Zimnicea, în județul Teleorman) și 48°15′ N (punctul cel mai nordic, lângă Horodiștea, în județul Botoșani). Pe nord–sud, țara se întinde pe aproximativ 4°38′ de latitudine.",
+        "Longitudinea este cuprinsă între 20°15′ E (punctul cel mai vestic, la Beba Veche, în județul Timiș) și 29°41′ E (punctul cel mai estic, în zona Sulina, în județul Tulcea). Pe est–vest, diferența este de aproximativ 9°26′ de longitudine.",
+        "Paralela de 45° N, aflată la jumătatea distanței dintre Ecuator și Polul Nord, traversează țara la sud de centru. Meridianul de 25° E trece prin partea centrală a României. Țara se încadrează în fusul orar al Europei de Est: UTC+2 iarna și UTC+3 vara (ora de vară)."
+      ]
+    },
+    {
+      "type": "image",
+      "src": "images/06-pozitie-matematica.webp",
+      "alt": "Hartă a României cu rețea de paralele și meridiane și cele patru puncte extreme",
+      "caption": "Poziția matematică: coordonatele și punctele extreme ale României."
     },
     {
       "type": "text",
